@@ -1,0 +1,23 @@
+body{
+    text-align: center;
+    background:linear-gradient(#fc0303 0%,#fcfc03 100%);
+}
+.line{
+    background-color: black;
+    height: 7px;
+    width: 150px;
+    margin:8px auto;
+}
+h2{
+    font-family: 'Goblin One', cursive;
+    font-size: 20px;
+}
+img{
+    height: 500px;
+    width: 500px;
+    margin: 8px;    
+}
+img:hover{transform: scale(1.1);}
+#sprite_slide{
+    background-color: azure;
+}
